@@ -1,0 +1,11 @@
+body{}
+nav{}
+a{color: #FFF;}
+a:hover{color: grey;}
+#tableTitle{
+    background-color: #ECECEC;
+    text-align: center;
+    margin-top: 50px;
+    border: 1px groove #212529;
+}
+table{border: 1px groove #212529;}

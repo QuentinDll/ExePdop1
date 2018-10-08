@@ -1,0 +1,13 @@
+body{
+    background-image: url("forest.jpg");
+    background-position: center top;
+}
+nav{
+    background-color: #5e5f40;
+}
+a{
+    color: #11160f;
+}
+a:hover{
+    color: #2e3a16;
+}
